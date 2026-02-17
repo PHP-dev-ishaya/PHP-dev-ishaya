@@ -1,3 +1,4 @@
+
 initial bio
 # Hi there! I'm [Your Name] 👋 🎤
 
@@ -16,3 +17,6 @@ I'm a creative developer who blends **PHP** logic with **Fashion & Graphic Desig
 
 ---
 ✨ *“If the code doesn't work, at least the UI looks fabulous.”* 💅
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Designer+by+heart...;Developer+by+code...;I+hit+high+notes+and+clean+code!" alt="Typing SVG" />
+</a>
