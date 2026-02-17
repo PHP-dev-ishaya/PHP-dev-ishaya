@@ -1,3 +1,4 @@
+initial bio
 # Hi there! I'm [Your Name] 👋 🎤
 
 I'm a creative developer who blends **PHP** logic with **Fashion & Graphic Design** flair. Currently leveling up my **JavaScript** skills!
