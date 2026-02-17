@@ -1,8 +1,8 @@
 
 initial bio
-## Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/People/Artist.png" alt="Artist" width="35" /> I'm Ishaya Sunday Bwala  👋 🎤
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=
-PHP-dev-ishaya&show_icons=true&theme=radical&count_private=true)
+## Hi there!  I'm Ishaya Sunday Bwala  👋 🎤
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PHP-dev-ishaya&show_icons=true&theme=radical&count_private=true)
+
 
 I'm a creative developer who blends **PHP** logic with **Fashion & Graphic Design** flair. Currently leveling up my **JavaScript** skills!
 
